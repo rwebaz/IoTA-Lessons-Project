@@ -6,8 +6,8 @@
 theme: "jekyll-theme-cayman"
 # repository: https://www.github.com/rwebaz/Iota-Lessons-Project
 title: "Iota Lessons Project"
-tagline: "A GitHub repo of Lessons and Articles that emphasize the GFM, Kramdown, and Iota XML engines"
-description: "A GitHub repo of Lessons and Articles that emphasize the GFM, Kramdown, and Iota XML engines"
+tagline: "A GitHub repo of Lessons and Articles that emphasize the GFM, Kramdown, and Iota data engines"
+description: "A GitHub repo of Lessons and Articles that emphasize the GFM, Kramdown, and Iota data engines"
 twitter:
     username: "mminail"
 author:
