@@ -1,11 +1,11 @@
 ---
 title: FOMO y FIDO
 layout: default
-navigation_weight: 9
+navigation_weight: 8
 ---
 # FOMO y FIDO
 
-IOTA founders Dominik Schiener and David Sonstebo ...
+IoTA founders Dominik Schiener and David Sonstebo ...
 
 {% include toc-flammarion.md %}
 
@@ -153,4 +153,4 @@ Place code here
 
 ### External Sources
 
-- The [Project Source Links](https://mminail.github.io/Iota/Source-Iota-Links.htm){:title="Click to Visit the Source Links page of the Iota Lessons Project at GitHub pages"}{:target="_blank"} page of the Iota Lessons Project. Published by © 2017 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the Concept Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}.
+- The [Project Source Links](https://mminail.github.io/IoTA/Source-Iota-Links.htm){:title="Click to Visit the Source Links page of the IoTA Lessons Project at GitHub pages"}{:target="_blank"} page of the IoTA Lessons Project. Published by © 2017 - 2018 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the Concept Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}.
