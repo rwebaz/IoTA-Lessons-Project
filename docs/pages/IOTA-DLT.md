@@ -1,11 +1,11 @@
 ---
-title: IOTA DLT
+title: IoTA DLT
 layout: default
-navigation_weight: 9
+navigation_weight: 8
 ---
-# IOTA DLT
+# IoTA DLT
 
-The **IOTA** Foundation located in Berlin, Germany EU is a pioneer in Distributed Ledger Technology, or **DLT**.
+The Internet of Things Class A, or [IoTA](https://){:title='Internet of Things Class A'}{:target='_blank'} Foundation located in Berlin, Germany EU is a pioneer in Distributed Ledger Technology, or [DLT](https://){:title='Distributed Ledger Technology'}{:target='_blank'}.
 
 {% include toc-flammarion.md %}
 
