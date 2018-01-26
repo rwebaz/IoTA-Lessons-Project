@@ -19,7 +19,7 @@ gem 'liquid', '4.0.0'
 #
 gem 'listen', '3.0.6'
 #
-gem 'nokogiri', '1.7.2'
+gem 'nokogiri', '1.8.1'
 #
 gem 'rouge', '2.2.1'
 #
