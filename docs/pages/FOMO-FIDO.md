@@ -1,9 +1,9 @@
 ---
-title: FOMO y FIDO
+title: FOMO FIDO
 layout: default
 navigation_weight: 8
 ---
-# FOMO y FIDO
+# FOMO FIDO
 
 IoTA founders Dominik Schiener and David Sonstebo ...
 
