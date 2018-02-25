@@ -23,7 +23,7 @@ author:
     github_username: "rwebaz"
     twitter_username: "rwebaz"
 # The 'baseurl' is the subpath of your designated project, e.g. /Blank-Lessons-Project or /blog or simply "/"
-baseurl: "/Iota-Lessons-Project"
+baseurl: "/IoTA-Lessons-Project"
 # The 'url' is the parental web address of your designated project, e.g. /https://mminail.github.io
 url: "https://rwebaz.github.io"
 exclude: ['README.md']
