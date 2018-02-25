@@ -1,2 +1,3 @@
-# Iota-Lessons-Project
-A Git Hub repo of Lessons emphasizing the Iota deep data engine
+# Iota Lessons Project
+
+A Git Hub repo of Lessons and Articles emphasizing the Internet of Things Class A deep data engine
