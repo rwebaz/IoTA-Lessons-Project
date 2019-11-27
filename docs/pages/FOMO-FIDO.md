@@ -1,28 +1,18 @@
 ---
 title: FOMO FIDO
 layout: default
-excerpt: Place the introducing line of text ie.) the 'lead' here ...
-version: Page Template md Dtd 02-16-18
+excerpt: IOTA coins are NOT divisible ...
+hint: The founders of the Internet O Things Class A foundation, or IoTA when originally floating the IoTA coins at Initial Coin Offering, or ICO accommodated a fixed supply of just shy of Three (3) peta's worth of IoTA.
+repo: IoTA-Lessons-Project
+ver_date: 11-26-19
 navigation_weight: 8
-categories: template
+categories: page
 ---
-# {{ page.title }}
-
-{{ page.excerpt }}
-
 {% include toc.md %}
 
 ## Indivisible
 
-IOTA coins are NOT divisible.
-
-```liquid
-{% raw %}
-npm i -g iota.lib.js
-{% endraw %}
-```
-
-However, the founders of the IOTA ( Internet O Things - Class A ) foundation, when originally floating the IOTA coins at ICO ( Initial Coin Offering ) accommodated a fixed supply of just shy of three (3) Peta iota.
+> **Hint**. {{ page.hint }}
 
 That would be two (2) zillion in front of 779 trillion, 530 billion, 283 million, 277 thousand, 7 hundred, 60 sixty, (1) one ... exactly.
 
@@ -138,36 +128,24 @@ What is the benefit for the end-user to hold an Internet O Things - Class A (**I
 
 Given the cost of `gas` over at the **IOTA** network now approaches the concept of zero.
 
-## Gifts O Gratitude
-
-Thoughts and expressions of gratitude accepted.
-
-Just scan the [QR Code](http://mminail.github.io){:title="Click to Visit the Concept Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"} at the home page of our Concept Library, extract our public "hash" address and *send ether*.
-
-## Import Code
-
-More to come ...
-
-## Last Subtitle
-
-**Note**. The above synopsis was derived from an article written by Blank [[2](#BLANK){:.red}].
-
-### Raw Code Block
+## NPM Init
 
 ```liquid
 {% raw %}
-Enjoy the successful output!
+npm i -g iota.lib.js
 {% endraw %}
 ```
 
-{% include brackets-ide.md %}
+## Last Subtitle
 
-{% include sources-and-uses.md %}
+More to come ...
 
-1. {:#BLANK}[The Blank Live at The Blank Festival, 2000](https://youtu.be/Blank){:title='Click to Watch the YouTube video of the Blank Live at the The Blank Festival, 2000'}{:target='_blank'}.
+***
 
-### External Sources
+**Note**. The above synopsis was derived from an article written by Blank Author [[1](#BLANKAUTHOR){:.red}].
 
-- {:#SOURCELINKS}The [Project Source Links](https://mminail.github.io/IoTA/Source-IoTA-Links.htm){:title='Click to Visit the Source Links page of the IoTA Lessons Project at Concepts Library'}{:target='_blank'} page of the IoTA Lessons Project at Concepts Library. Published by © 2017 - 2018 [Mminail.github.io](https://mminail.github.io/){:title='Click to Visit the Home Page of the Concepts Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation'}{:target='_blank'}.
+1. {:#BLANKAUTHOR}[A Narrative of Psychology by Blank Author, Jan #1999](http://cowles.yale.edu/sites/default/files/files/pub/d20/d2069.pdf){:title="Click to Review ..."}{:target="_blank"}
 
-**Note**. This page crafted with {{ page.version }}.
+***
+
+{% include patreon-link.md %}
