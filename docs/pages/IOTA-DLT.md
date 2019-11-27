@@ -2,21 +2,17 @@
 title: IoTA DLT
 layout: default
 excerpt: The Trinary alphabet may contain Data, Info, Wisdom, and Knowledge ...
-version: Page Template md Dtd 02-16-18
+hint: What does the acronym DIWK represent?
+repo: IoTA-Lessons-Project
+ver_date: 11-26-19
 navigation_weight: 8
-categories: template
+categories: page
 ---
-# {{ page.title }}
-
-{{ page.excerpt }}
-
 {% include toc.md %}
 
 ## IOTA DIWK
 
-The Internet of Things Class A, or [IoTA](https://){:title='Internet of Things Class A'}{:target='_blank'} Foundation located in Berlin, Germany EU is a pioneer in Distributed Ledger Technology, or [DLT](https://){:title='Distributed Ledger Technology'}{:target='_blank'}.
-
-What does the acronym `DIWK` represent?
+> **Hint**. {{ page.hint }}
 
 - **Data**, the plural of a set of datum(s) ...
 
@@ -214,28 +210,18 @@ Just scan the [QR Code](http://mminail.github.io){:title="Click to Visit the Con
 
 ## Import Code
 
-More to come ...
+The Internet of Things Class A, or [IoTA](https://){:title='Internet of Things Class A'}{:target='_blank'} Foundation located in Berlin, Germany EU is a pioneer in Distributed Ledger Technology, or [DLT](https://){:title='Distributed Ledger Technology'}{:target='_blank'}.
 
 ## Last Subtitle
 
-**Note**. The above synopsis was derived from an article written by Blank [[2](#BLANK){:.red}].
+More to come ...
 
-### Raw Code Block
+***
 
-```liquid
-{% raw %}
-Enjoy the successful output!
-{% endraw %}
-```
+**Note**. The above synopsis was derived from an article written by Blank Author [[1](#BLANKAUTHOR){:.red}].
 
-{% include brackets-ide.md %}
+1. {:#BLANKAUTHOR}[A Narrative of Psychology by Blank Author, Jan #1999](http://cowles.yale.edu/sites/default/files/files/pub/d20/d2069.pdf){:title="Click to Review ..."}{:target="_blank"}
 
-{% include sources-and-uses.md %}
+***
 
-1. {:#BLANK}[The Blank Live at The Blank Festival, 2000](https://youtu.be/Blank){:title='Click to Watch the YouTube video of the Blank Live at the The Blank Festival, 2000'}{:target='_blank'}.
-
-### External Sources
-
-- {:#SOURCELINKS}The [Project Source Links](https://mminail.github.io/IoTA/Source-IoTA-Links.htm){:title='Click to Visit the Source Links page of the IoTA Lessons Project at Concepts Library'}{:target='_blank'} page of the IoTA Lessons Project at Concepts Library. Published by © 2017 - 2018 [Mminail.github.io](https://mminail.github.io/){:title='Click to Visit the Home Page of the Concepts Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation'}{:target='_blank'}.
-
-**Note**. This page crafted with {{ page.version }}.
+{% include patreon-link.md %}
